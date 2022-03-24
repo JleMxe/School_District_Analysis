@@ -1,5 +1,8 @@
 # Overview School_District_Analysis
-    An analysis of the School District has been requested. However, due to evidence of academic dishonesty discovered amongst the Thomas High School 9th grade class, the math and reading scores for that class have been requested to be replaced with NaN(s) so that the data associated with that particular class will not be included in the result.
+    An analysis of the School District has been requested. However, due to evidence of academic
+    dishonesty discovered amongst the Thomas High School 9th grade class, the math and reading
+    scores for that class have been requested to be replaced with NaN(s) so that the data
+    associated with that particular class will not be included in the result.
 
 # School District Analysis Deliverables
 - Replace the ninth grade reading and math scores from Thomas High School with NaN(s).
